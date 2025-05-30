@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Data Analyst | 10+ Years in Consumer Finance | Passionate about creating innovative solutions and fostering collaborative environments to achieve outstanding results.
+
+Mastering Excel, SQL, Tableau, Power BI.
+
 <!--
 **kmdalmau/kmdalmau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
