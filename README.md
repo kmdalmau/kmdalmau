@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 ## Hey 👋, This is Kristal Dalmau
 [![Gmail Badge](https://img.shields.io/badge/-kmdalmau@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kmdalmau@gmail.com)](mailto:kmdalmau@gmail.com) 
@@ -6,7 +6,12 @@
 
 Mastering Excel, SQL, Tableau, Power BI.
 
+</p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=kmdalmau alt=kmdalmau /> </p>
 
+[![Github stats](https://github-readme-stats.vercel.app/api?username=kmdalmau&show_icons=true&include_all_commits=true)](https://github.com/kmdalmau/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmdalmau&layout=compact)](https://github.com/kmdalmau/github-readme-stats)
 
 
 
